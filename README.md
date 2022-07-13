@@ -2,9 +2,6 @@
 # Complete Ecommerce App android.
 # Project demo
 
-![Ecommerceapp2](https://user-images.githubusercontent.com/109209762/178702855-37d91c38-6a9f-46e9-8597-ff495bb1863c.png)![Ecommerceapp4](https://user-images.githubusercontent.com/109209762/178702879-b3ffe7c0-fa33-4224-b35a-a58224359170.png)![Ecommerceapp5](https://user-images.githubusercontent.com/109209762/178702893-611dee94-a658-4310-a6e6-4a757c965ab7.png)![payment1](https://user-images.githubusercontent.com/109209762/178702898-77a3646c-2942-46df-bfbd-85f04e59c961.png)![payment2](https://user-images.githubusercontent.com/109209762/178702904-9a9a6ac0-5d08-433e-b6c3-8a5338002f01.png)![search1](https://user-images.githubusercontent.com/109209762/178702907-5a88edc3-f002-403f-946f-0854c3a637fe.png)![search2](https://user-images.githubusercontent.com/109209762/178702933-a0ba3c44-8afb-494e-9075-6dfa757b87c3.png)![categoryproductselect](https://user-images.githubusercontent.com/109209762/178702940-9e765497-5af0-4b53-a9bb-5c84435b8574.png)![checkoutpage1](https://user-images.githubusercontent.com/109209762/178702954-7cf05c28-44fe-4010-8f42-c50dea42bf5f.png)![checkoutpage2](https://user-images.githubusercontent.com/109209762/178702956-cf3c00cc-ce93-4d85-af36-33703c9e505e.png)![Ecommerceapp1](https://user-images.githubusercontent.com/109209762/178702981-08663005-3e70-43e0-80a6-35b45c1b27a1.png)![Ecommercapp3](https://user-images.githubusercontent.com/109209762/178702965-f71388d3-0c5a-4ec4-b26f-ad4bc8eaf67b.png)
-
-
 In this project you will learn about how to make full Complete
 ecommerce app using java.
 
@@ -34,3 +31,18 @@ ecommerce app using java.
 5) Tiny Cart: https://github.com/hishd/TinyCart
 6) Advanced Webview: https://github.com/delight-im/Android...
 
+demo app
+![Ecommerceapp5](https://user-images.githubusercontent.com/109209762/178705137-420917f8-54fc-4eae-bdad-95c3cbc50599.png)
+![payment2](https://user-images.githubusercontent.com/109209762/178705144-1e4e3eb0-044e-485d-9f9f-47a8cb047b72.png)
+![payment1](https://user-images.githubusercontent.com/109209762/178705142-8514e121-8685-42c2-bf09-2ed1ae69b1b3.png)![search1](https://user-images.githubusercontent.com/109209762/178705149-8f7afa7f-5710-4ac8-b0c6-f86e673d5ae9.png)
+
+
+![search2](https://user-images.githubusercontent.com/109209762/178705165-802cb41a-2a9d-40fd-9782-e9dc8e8d76ea.png)
+![categoryproductselect](https://user-images.githubusercontent.com/109209762/178705168-b6003347-64f8-4da7-9fc2-dcc8adf500bb.png)
+
+![Ecommerceapp2](https://user-images.githubusercontent.com/109209762/178705117-f026518a-707f-4ef2-9e82-2f43c7658d14.png)
+![Ecommerceapp4](https://user-images.githubusercontent.com/109209762/178705133-9c2cbee3-bd89-462e-8dee-21b90380836d.png)
+![checkoutpage1](https://user-images.githubusercontent.com/109209762/178705170-7f0595a7-c851-4524-b328-a5b497a77cbc.png)
+![checkoutpage2](https://user-images.githubusercontent.com/109209762/178705172-aff54e36-47a9-429c-9914-bc4221206fc9.png)
+![Ecommercapp3](https://user-images.githubusercontent.com/109209762/178705176-8797de0f-2b7b-493e-810c-4e0a8d538a76.png)
+![Ecommerceapp1](https://user-images.githubusercontent.com/109209762/178705185-c9ecfd90-0f47-4a8b-864f-1b1e700a3e4e.png)
