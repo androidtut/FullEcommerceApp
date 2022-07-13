@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_marginVertical="20dp"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="20dp"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/pname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="name"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                />
+
+            <TextView
+                android:id="@+id/pstock"
+                android:gravity="right"
+                android:textSize="30dp"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="stock"
+                />
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/quantity_decrement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:layout_weight="1"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/quantitynumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textSize="30dp"
+            android:layout_weight="1"
+            android:padding="6dp"
+            android:textColor="@color/white"
+            android:background="#F44336"
+            android:textAlignment="center"
+            />
+
+        <Button
+            android:id="@+id/quantity_increment"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:textSize="30dp"
+            android:layout_height="wrap_content"
+            android:text="+"
+            />
+
+    </LinearLayout>
+        <Button
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:paddingHorizontal="50dp"
+            android:paddingVertical="10dp"
+            android:layout_marginVertical="30dp"
+            android:layout_gravity="right"
+            android:layout_height="wrap_content"
+            android:text="save"
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
